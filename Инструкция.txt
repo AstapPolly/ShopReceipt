@@ -1,0 +1,3 @@
+Сборщик Maven.
+Запуск в javac через Main.
+Ссылка на репозиторий: https://github.com/AstapPolly/ShopReceipt.git
